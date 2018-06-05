@@ -13,7 +13,7 @@ or
 python talk.py [someone]
 ```
 
-# 参照できる問題種類
+# 参照できる問題の種類
 以下は[someone]として指定できる。
 * feam(基本情報午前)
 * fepm(基本情報午後)
