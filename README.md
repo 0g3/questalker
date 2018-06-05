@@ -12,7 +12,13 @@ or
 ```
 python talk.py [someone]
 ```
-someoneとして指定できるのは"feam(基本情報午前), fepm(基本情報午後), apam(応用情報午前), appm(応情報午後)"。
+
+# 参照できる問題種類
+以下は[someone]として指定できる。
+* feam(基本情報午前)
+* fepm(基本情報午後)
+* apam(応用情報午前)
+* appm(応用情報午後)
 
 # 使い方
 ```
