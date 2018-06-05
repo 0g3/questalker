@@ -12,6 +12,7 @@ or
 ```
 python talk.py [someone]
 ```
+someoneとして指定できるのは"feam(基本情報午前), fepm(基本情報午後), apam(応用情報午前), appm(応情報午後)"。
 
 # 使い方
 ```
