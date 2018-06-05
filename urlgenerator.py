@@ -3,9 +3,6 @@ talk with:
 http://www.fe-siken.com/
 https://www.ap-siken.com/
 '''
-import requests
-import csv
-import os
 import webbrowser
 
 
