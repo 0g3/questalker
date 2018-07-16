@@ -1,26 +1,31 @@
-# なにができる？
+Welcome to questalker
+===
+なにができる？
+---
 * http://www.fe-siken.com/
 * https://www.ap-siken.com/
-<br>
+
 上記のサイトに掲載されている問題のページにインタラクティブにアクセスできる。
 
-# 起動方法
+起動方法
+---
 ```
 ./talk [someone]
 ```
 or
 ```
-python talk.py [someone]
+python3 talk.py [someone]
 ```
 
-# 参照できる問題の種類
-以下は[someone]として指定できる。
+以下を[someone]として指定できる。
+
 * feam(基本情報午前)
 * fepm(基本情報午後)
 * apam(応用情報午前)
 * appm(応用情報午後)
 
-# 使い方
+使い方
+---
 ```
 [feam]問題を入力してください: [西暦][春期or秋期][問題番号]
 ```
@@ -36,16 +41,18 @@ python talk.py [someone]
 [feam]問題を入力してください: 2013a16
 ```
 
-# 終了方法
+終了方法
+---
 ```
 [feam]問題を入力してください: exit
 ```
 
-# ヘルプ
+ヘルプ
+---
 ```
 ./talk -h
 ```
 or
 ```
-python talk.py -h
+python3 talk.py -h
 ```
