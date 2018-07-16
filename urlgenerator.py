@@ -13,6 +13,7 @@ class URLGenerator(object):
   PM = 'pm{:02}.html'
 
   def __init__(self, typ='feam'):
+    url_fmt = None
     if typ == 'feam':
       url_fmt = self.FE + self.AM
     if typ == 'fepm':
